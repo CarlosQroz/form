@@ -1,0 +1,8 @@
+# Directorio node_modules generado por npm
+node_modules/
+
+# Archivo generado por npm para controlar las dependencias
+package-lock.json
+
+# Archivo generado por npm para controlar las dependencias (versión anterior)
+npm-shrinkwrap.json
